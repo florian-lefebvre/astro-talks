@@ -5,7 +5,7 @@ theme: seriph
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Welcome to Slidev
+title: Customize your Astro project with integrations
 info: |
   ## Slidev Starter Template
   Presentation slides for developers.
@@ -20,6 +20,22 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
+hideInToc: true
+---
+
+
+# Customize your Astro project with integrations
+
+TheJam.dev 2025 - Florian Lefebvre
+
+---
+hideInToc: true
+---
+
+# Table of Contents
+
+<Toc />
+
 ---
 
 # Welcome to Slidev
@@ -551,7 +567,7 @@ Learn more: [Mermaid Diagrams](https://sli.dev/features/mermaid) and [PlantUML D
 ---
 foo: bar
 dragPos:
-  square: 691,32,167,_,-16
+  square: 489,101,167,_,-16
 ---
 
 # Draggable Elements
