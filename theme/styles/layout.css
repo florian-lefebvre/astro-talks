@@ -1,3 +1,7 @@
+.slidev-page {
+  @apply bg-[#060913];
+}
+
 .slidev-layout {
   @apply px-14 py-10 text-[1.1rem];
 
@@ -10,7 +14,7 @@
   }
 
   h1 {
-    @apply text-4xl mb-4 font-700 -ml-[0.05em];
+    @apply text-4xl mb-4 font-300 -ml-[0.05em];
   }
   h1 + h2 {
     @apply -mt-4;
@@ -84,6 +88,14 @@
   kbd {
     @apply border border-gray-400 border-b-2 border-opacity-20 rounded;
     @apply bg-gray-400 bg-opacity-5 py-0.5 px-1 text-sm font-mono;
+  }
+}
+
+.slidev-layout.center {
+  @apply text-center;
+
+  h1 {
+    @apply text-5xl text-balance;
   }
 }
 

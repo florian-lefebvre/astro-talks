@@ -2,6 +2,7 @@
 theme: ./theme
 title: Customize your Astro project with integrations
 src: ./slides/1.intro.md
+lineNumbers: true
 ---
 
 ---

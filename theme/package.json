@@ -19,10 +19,12 @@
     "slidev": ">=v0.47.0"
   },
   "slidev": {
+    "colorScheme": "dark",
     "defaults": {
       "fonts": {
-        "sans": "Helvetica Neue",
-        "local": "Helvetica Neue"
+        "sans": "Inter, inter-fallback, system-ui, sans-serif",
+        "mono": "MDIO, md-io-fallback, monospace",
+        "fallbacks": false
       }
     }
   },
