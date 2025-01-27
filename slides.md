@@ -2,7 +2,8 @@
 theme: ./theme
 title: Customize your Astro project with integrations
 src: ./slides/1.intro.md
-lineNumbers: true
+themeConfig:
+    primary: "#e8c4f9"
 ---
 
 ---
@@ -10,7 +11,11 @@ src: ./slides/2.toc.md
 ---
 
 ---
-src: ./slides/3.what-is-astro.md
+src: ./slides/3.0.what-is-astro.md
+---
+
+---
+src: ./slides/3.1.islands.md
 ---
 
 ---
