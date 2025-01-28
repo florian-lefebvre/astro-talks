@@ -16,19 +16,19 @@ src: ./slides/1.0.what-is-astro.md
 ---
 
 ---
-src: ./slides/1.1.islands.md
+src: ./slides/1.1.zero-js.md
 ---
 
 ---
-src: ./slides/1.2.ui-agnostic.md
+src: ./slides/1.2.server-first.md
 ---
 
 ---
-src: ./slides/1.3.server-first.md
+src: ./slides/1.3.islands.md
 ---
 
 ---
-src: ./slides/1.4.zero-js.md
+src: ./slides/1.4.ui-agnostic.md
 ---
 
 ---
