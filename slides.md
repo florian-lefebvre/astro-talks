@@ -4,7 +4,7 @@ title: Customize your Astro project with integrations
 src: ./slides/0.0.intro.md
 themeConfig:
     primary: "#e8c4f9"
-transition: slide-left
+transition: fade
 ---
 
 ---
@@ -21,6 +21,10 @@ src: ./slides/1.1.islands.md
 
 ---
 src: ./slides/1.2.ui-agnostic.md
+---
+
+---
+src: ./slides/1.3.server-first.md
 ---
 
 ---
