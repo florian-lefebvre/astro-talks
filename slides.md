@@ -7,10 +7,6 @@ themeConfig:
 ---
 
 ---
-src: ./slides/0.1.toc.md
----
-
----
 src: ./slides/0.2.about.md
 ---
 
