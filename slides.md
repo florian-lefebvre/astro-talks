@@ -28,6 +28,14 @@ src: ./slides/1.3.server-first.md
 ---
 
 ---
+src: ./slides/1.4.zero-js.md
+---
+
+---
+src: ./slides/1.5.customizable.md
+---
+
+---
 src: ./slides/2.what-are-integrations.md
 ---
 
