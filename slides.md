@@ -52,10 +52,6 @@ src: ./slides/2.3.add.md
 ---
 
 ---
-src: ./slides/2.4.configuration.md
----
-
----
 src: ./slides/3.0.examples.md
 ---
 
