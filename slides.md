@@ -80,5 +80,13 @@ src: ./slides/3.5.custom-routing.md
 ---
 
 ---
-src: ./slides/4.0.building-an-integration.md
+src: ./slides/4.0.build-an-integration.md
+---
+
+---
+src: ./slides/4.1.what-is-an-integration.md
+---
+
+---
+src: ./slides/4.x.resources.md
 ---
