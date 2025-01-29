@@ -8,7 +8,7 @@ transition: fade
 ---
 
 ---
-src: ./slides/0.2.about.md
+src: ./slides/0.1.about.md
 ---
 
 ---
@@ -52,5 +52,33 @@ src: ./slides/2.3.add.md
 ---
 
 ---
-src: ./slides/3.building-an-integration.md
+src: ./slides/2.4.configuration.md
+---
+
+---
+src: ./slides/3.0.examples.md
+---
+
+---
+src: ./slides/3.1.react.md
+---
+
+---
+src: ./slides/3.2.netlify.md
+---
+
+---
+src: ./slides/3.3.sitemap.md
+---
+
+---
+src: ./slides/3.4.starlight.md
+---
+
+---
+src: ./slides/3.5.custom-routing.md
+---
+
+---
+src: ./slides/4.0.building-an-integration.md
 ---
