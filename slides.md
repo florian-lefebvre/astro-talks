@@ -48,5 +48,9 @@ src: ./slides/2.2.browse.md
 ---
 
 ---
+src: ./slides/2.3.add.md
+---
+
+---
 src: ./slides/3.building-an-integration.md
 ---
