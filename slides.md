@@ -36,13 +36,17 @@ src: ./slides/1.5.customizable.md
 ---
 
 ---
-src: ./slides/2.what-are-integrations.md
+src: ./slides/2.0.what-is-an-integration.md
 ---
 
 ---
-src: ./slides/3.examples.md
+src: ./slides/2.1.examples.md
 ---
 
 ---
-src: ./slides/4.building-an-integration.md
+src: ./slides/2.2.browse.md
+---
+
+---
+src: ./slides/3.building-an-integration.md
 ---
