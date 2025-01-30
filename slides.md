@@ -84,5 +84,13 @@ src: ./slides/4.1.what-is-an-integration.md
 ---
 
 ---
+src: ./slides/4.2.what-we-will-build.md
+---
+
+---
+src: ./slides/4.3.code-time.md
+---
+
+---
 src: ./slides/4.x.resources.md
 ---
