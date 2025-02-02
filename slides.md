@@ -60,11 +60,11 @@ src: ./slides/3.1.react.md
 ---
 
 ---
-src: ./slides/3.2.netlify.md
+src: ./slides/3.2.sitemap.md
 ---
 
 ---
-src: ./slides/3.3.sitemap.md
+src: ./slides/3.3.netlify.md
 ---
 
 ---
@@ -96,5 +96,9 @@ src: ./slides/4.4.result.md
 ---
 
 ---
-src: ./slides/4.x.resources.md
+src: ./slides/4.5.resources.md
+---
+
+---
+src: ./slides/5.0.end.md
 ---

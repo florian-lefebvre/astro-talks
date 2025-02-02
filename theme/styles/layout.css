@@ -143,5 +143,5 @@
 }
 
 .text-gradient {
-  @apply bg-gradient-to-tr from-[#D83333] to-[#F041FF] bg-clip-text text-transparent;
+  @apply bg-gradient-to-tr from-[#D83333] to-[#F041FF] bg-clip-text text-transparent font-bold;
 }
