@@ -1,15 +1,29 @@
 .slidev-page {
-  @apply bg-zinc-950;
+  @apply bg-zinc-50 dark:bg-zinc-950;
+}
+
+:root {
+  @apply [--slidev-code-background:theme(colors.zinc.800)] dark:[--slidev-code-background:theme(colors.zinc.900)];
 }
 
 .slidev-layout {
   @apply px-14 py-10 text-[1.1rem];
 
-  h1, h2, h3, h4, p, div {
+  :not(pre) > code {
+    @apply text-white;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  p,
+  div {
     @apply select-none;
   }
 
-  pre, code {
+  pre,
+  code {
     @apply select-text;
   }
 
@@ -40,7 +54,9 @@
     @apply -mt-2 mb-4;
   }
 
-  p + h2, ul + h2, table + h2 {
+  p + h2,
+  ul + h2,
+  table + h2 {
     @apply mt-10;
   }
 
@@ -81,11 +97,13 @@
     @apply list-decimal;
   }
 
-  td, th {
+  td,
+  th {
     @apply p-2 py-3;
   }
 
-  b, strong {
+  b,
+  strong {
     @apply font-600;
   }
 
