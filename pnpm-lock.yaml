@@ -36,6 +36,21 @@ importers:
         specifier: 3.5.30
         version: 3.5.30(typescript@5.9.3)
 
+  talks/2026-04-astrotogether:
+    dependencies:
+      '@slidev/cli':
+        specifier: 52.14.1
+        version: 52.14.1(@nuxt/kit@3.15.2(rollup@4.60.0))(@types/markdown-it@14.1.2)(@types/node@22.19.15)(@vue/compiler-sfc@3.5.30)(lightningcss@1.32.0)(markdown-it@14.1.1)(postcss@8.5.8)(rollup@4.60.0)(tsx@4.19.2)
+      '@slidev/theme-apple-basic':
+        specifier: 0.25.1
+        version: 0.25.1
+      theme:
+        specifier: workspace:*
+        version: link:../../packages/theme
+      vue:
+        specifier: 3.5.30
+        version: 3.5.30(typescript@5.9.3)
+
 packages:
 
   '@antfu/install-pkg@1.1.0':
