@@ -22,5 +22,12 @@
       },
       "transition": "fade"
     }
+  },
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@slidev/types": "52.14.1",
+    "vite": "8.0.2"
   }
 }
