@@ -31,3 +31,15 @@ src: ./slides/0.6.solution-details.md
 ---
 src: ./slides/1.0.demo.md
 ---
+
+---
+src: ./slides/2.0.timeline.md
+---
+
+---
+src: ./slides/3.0.stats.md
+---
+
+---
+src: ./slides/4.0.how-it-works.md
+---
