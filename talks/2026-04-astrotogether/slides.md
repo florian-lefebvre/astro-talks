@@ -103,3 +103,27 @@ src: ./slides/5.2.capsize.md
 ---
 src: ./slides/5.3.fontkitten.md
 ---
+
+---
+src: ./slides/6.0.examples.md
+---
+
+---
+src: ./slides/6.1.integration.md
+---
+
+---
+src: ./slides/6.2.og.md
+---
+
+---
+src: ./slides/7.0.future.md
+---
+
+---
+src: ./slides/7.1.font-buffer.md
+---
+
+---
+src: ./slides/8.0.thanks.md
+---
