@@ -43,3 +43,47 @@ src: ./slides/3.0.stats.md
 ---
 src: ./slides/4.0.how-it-works.md
 ---
+
+---
+src: ./slides/4.1.normalization.md
+---
+
+---
+src: ./slides/4.2.provider-data.md
+---
+
+---
+src: ./slides/4.3.google-provider.md
+---
+
+---
+src: ./slides/4.4.google-provider.md
+---
+
+---
+src: ./slides/4.5.google-provider.md
+---
+
+---
+src: ./slides/4.6.proxy.md
+---
+
+---
+src: ./slides/4.7.fallbacks.md
+---
+
+---
+src: ./slides/4.8.fallbacks.md
+---
+
+---
+src: ./slides/4.9.exposing-data.md
+---
+
+---
+src: ./slides/4.10.handling-proxy-dev.md
+---
+
+---
+src: ./slides/4.11.handling-proxy-build.md
+---
