@@ -87,3 +87,19 @@ src: ./slides/4.10.handling-proxy-dev.md
 ---
 src: ./slides/4.11.handling-proxy-build.md
 ---
+
+---
+src: ./slides/5.0.ecosystem-effort.md
+---
+
+---
+src: ./slides/5.1.unifont.md
+---
+
+---
+src: ./slides/5.2.capsize.md
+---
+
+---
+src: ./slides/5.3.fontkitten.md
+---
