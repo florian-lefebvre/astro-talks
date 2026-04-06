@@ -1,6 +1,6 @@
 ---
 theme: theme
-title: Customize your Astro project with integrations
+title: Fonts API deep dive
 src: ./slides/0.0.intro.md
 ---
 
