@@ -63,8 +63,8 @@
   font-feature-settings: var(--mono-calt), var(--mono-zero);
 }
 
-h1, h2 {
-  font-family: Obviously, obviously-fallback, system-ui, sans-serif;
+.font-brand, h1, h2 {
+    font-family: Obviously, obviously-fallback, system-ui, sans-serif;
   font-variation-settings: var(--heading-wdth), var(--heading-wght),
     var(--heading-slnt);
   font-feature-settings: var(--heading-salt), var(--heading-ss06),
