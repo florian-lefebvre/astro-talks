@@ -37,10 +37,6 @@ src: ./slides/2.0.timeline.md
 ---
 
 ---
-src: ./slides/3.0.stats.md
----
-
----
 src: ./slides/4.0.how-it-works.md
 ---
 
@@ -69,23 +65,19 @@ src: ./slides/4.6.proxy.md
 ---
 
 ---
-src: ./slides/4.7.fallbacks.md
+src: ./slides/4.7.handling-proxy-dev.md
 ---
 
 ---
-src: ./slides/4.8.fallbacks.md
+src: ./slides/4.8.handling-proxy-build.md
 ---
 
 ---
-src: ./slides/4.9.exposing-data.md
+src: ./slides/4.9.fallbacks.md
 ---
 
 ---
-src: ./slides/4.10.handling-proxy-dev.md
----
-
----
-src: ./slides/4.11.handling-proxy-build.md
+src: ./slides/4.10.fallbacks.md
 ---
 
 ---
@@ -98,10 +90,6 @@ src: ./slides/5.1.unifont.md
 
 ---
 src: ./slides/5.2.capsize.md
----
-
----
-src: ./slides/5.3.fontkitten.md
 ---
 
 ---
