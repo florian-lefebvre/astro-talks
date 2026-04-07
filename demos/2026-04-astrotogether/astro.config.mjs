@@ -10,7 +10,8 @@ export default defineConfig({
     //         name: 'Public Sans',
     //         cssVariable: '--font-body',
     //         provider: fontProviders.fontsource(),
-    //         weights: ['400', '700']
+    //         weights: ['400', '700'],
+    //         styles: ['normal', 'italic']
     //     },
     //     {
     //         name: 'Rubik',
