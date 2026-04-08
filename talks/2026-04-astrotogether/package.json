@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "@slidev/cli": "52.14.1",
-    "slidev-theme-astro": "^0.0.3"
+    "slidev-theme-astro": "~0.1.0"
   }
 }
