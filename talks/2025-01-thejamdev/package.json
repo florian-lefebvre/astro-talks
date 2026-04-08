@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "@slidev/cli": "52.14.1",
-    "theme": "workspace:*",
-    "vue": "3.5.30"
+    "slidev-theme-astro": "^0.0.3"
   }
 }

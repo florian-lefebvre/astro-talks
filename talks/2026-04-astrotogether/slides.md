@@ -1,5 +1,5 @@
 ---
-theme: theme
+theme: astro
 title: Fonts API deep dive
 src: ./slides/0.0.intro.md
 ---
