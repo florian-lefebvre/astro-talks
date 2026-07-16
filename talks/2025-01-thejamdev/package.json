@@ -8,7 +8,7 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "52.14.1",
+    "@slidev/cli": "52.18.0",
     "slidev-theme-astro": "~0.1.0"
   }
 }

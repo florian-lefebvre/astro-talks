@@ -1,3 +1,6 @@
 packages:
   - talks/*
   - demos/*
+allowBuilds:
+  esbuild: false
+  sharp: false
