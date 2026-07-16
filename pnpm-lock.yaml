@@ -32,6 +32,15 @@ importers:
         specifier: ~0.1.0
         version: 0.1.0
 
+  talks/2026-09-wiesbaden:
+    dependencies:
+      '@slidev/cli':
+        specifier: 52.18.0
+        version: 52.18.0(@nuxt/kit@3.15.2(rollup@4.60.0))(@types/markdown-it@14.1.2)(@types/node@22.19.15)(@vue/compiler-sfc@3.5.39)(esbuild@0.27.4)(lightningcss@1.32.0)(markdown-it@14.3.0)(postcss@8.5.19)(rolldown@1.1.5)(rollup@4.60.0)(tsx@4.19.2)
+      slidev-theme-astro:
+        specifier: ~0.1.0
+        version: 0.1.0
+
 packages:
 
   '@antfu/install-pkg@1.1.0':
