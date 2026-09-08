@@ -1,0 +1,14 @@
+{
+  "name": "@talks/2026-09-wiesbaden",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "52.18.0",
+    "slidev-theme-astro": "~0.1.0"
+  }
+}
